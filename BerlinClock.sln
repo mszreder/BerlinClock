@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClock", "BerlinClock.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClock.Core", "BerlinClock.Core\BerlinClock.Core.csproj", "{DA4D5F46-B1AE-434F-B4BE-8B861627386C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClock.Core.Tests", "..\Users\mszreder\Documents\Visual Studio 2015\Projects\BerlinClock.Core.Tests\BerlinClock.Core.Tests.csproj", "{507D8E1C-B0D0-43B5-A5F7-667892D5E07D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClock.Core.Tests", "BerlinClock.Core.Tests\BerlinClock.Core.Tests.csproj", "{507D8E1C-B0D0-43B5-A5F7-667892D5E07D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClock.Tests", "BerlinClock.Tests\BerlinClock.Tests.csproj", "{DA2AB491-A70F-4344-A621-182704553610}"
 EndProject
