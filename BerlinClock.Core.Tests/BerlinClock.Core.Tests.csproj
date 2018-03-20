@@ -68,11 +68,6 @@
     <Compile Include="BerlinClockTimeRepresentationTests.cs" />
     <Compile Include="FiveHourDiodeTests.cs" />
     <Compile Include="FiveMinuteDiodeTests.cs" />
-    <Compile Include="Interfaces\IBerlinClockVisualisationService.cs" />
-    <Compile Include="Interfaces\IBerlineClockFactory.cs" />
-    <Compile Include="Interfaces\IBerlineClockService.cs" />
-    <Compile Include="Interfaces\ITimeRepresentation.cs" />
-    <Compile Include="Interfaces\ITimeTextInputConverter.cs" />
     <Compile Include="OneHourDiodeTests.cs" />
     <Compile Include="OneMinuteDiodeTests.cs" />
     <Compile Include="OneSecondDiodeTests.cs" />
